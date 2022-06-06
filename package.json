@@ -1,0 +1,11 @@
+{
+  "name": "kenya-number-regex",
+  "version": "1.0.8",
+  "description": "This is an NPM library to help format Kenyan numbers based on al existing formatss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kibiku",
+  "license": "MIT"
+}
